@@ -1,0 +1,33 @@
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.navbar-brand {
+    background-color: teal;
+    padding: 20px 40px;
+}
+
+.navbar-light .navbar-brand,
+.navbar-light .navbar-brand:hover {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    border-right: 1px solid #CCC;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+#lastLink {
+    border-right: none;
+}
+
+.navbar-nav .nav-link {
+    padding: 0 0.5rem;
+}
+
+.navbar-nav {
+    flex-direction: row;
+    justify-content: center;
+}
