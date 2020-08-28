@@ -1,22 +1,18 @@
 import React from "react";
-import Card from "react-bootstrap/Card";
+import Col from "react-bootstrap/Col";
 
-function Project() {
+function Project({project}) {
 
     return(
-        <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="holder.js/100px180" />
-            <Card.Body>
-                <Card.Title>Card Title</Card.Title>
-                <Card.Text>
-                    Some quick example text to build on the card title and make up the bulk of
-                    the card's content.
-                </Card.Text>
-                <a href>Deployed Application</a>
-                <br></br>
-                <a href>GitHub Repository</a>
-            </Card.Body>
-        </Card>
+
+        <Col md={6}>
+            <h3 className="projectTitles">{project.name}</h3>
+            <img src={require(project.image)} alt={project.alt}></img>
+            <a href={project.appUrl}>Deployed App</a>
+            <br></br>
+            <a href={project.repo}>GitHub Repository</a>
+        </Col>
+
     )
 
 }
