@@ -2,7 +2,8 @@
     {
         "id": 1,
         "name": "ChefPro",
-        "image": "../../images/Chef-Pro-screenshot.png",
+        "image": "../../images/ChefPro-screenshot.png",
+        "alt": "ChefPro screenshot",
         "appUrl": "https://uw-project-2.herokuapp.com/",
         "repo": "https://github.com/billyhao12/ChefPro"
     },
@@ -11,6 +12,7 @@
         "id": 2,
         "name": "Weather Event Planner",
         "image": "../../images/Weather-Event-Planner-screenshot.png",
+        "alt": "Weather Event Planner screenshot",
         "appUrl": "https://billyhao12.github.io/Weather-Event-Planner/",
         "repo": "https://github.com/billyhao12/Weather-Event-Planner"
     },
@@ -19,6 +21,7 @@
         "id": 3,
         "name": "Burger App",
         "image": "../../images/Burger-App-screenshot.png",
+        "alt": "Burger App screenshot",
         "appUrl": "https://hidden-coast-04312.herokuapp.com/",
         "repo": "https://github.com/billyhao12/Burger-App"
     },
@@ -27,6 +30,7 @@
         "id": 4,
         "name": "Employee Tracker",
         "image": "../../images/Employee-Tracker-screenshot.png",
+        "alt": "Employee Tracker screenshot",
         "appUrl": "",
         "repo": "https://github.com/billyhao12/Employee-Tracker"
     },
@@ -35,6 +39,7 @@
         "id": 5,
         "name": "Team Profile Generator",
         "image": "../../images/Team-Profile-Generator-screenshot.png",
+        "alt": "Team Profile Generator screenshot",
         "appUrl": "",
         "repo": "https://github.com/billyhao12/Team-Profile-Generator"
     },
@@ -43,6 +48,7 @@
         "id": 6,
         "name": "Work Day Scheduler",
         "image": "../../images/Work-Day-Scheduler-screenshot.png",
+        "alt": "Work Day Scheduler screenshot",
         "appUrl": "https://billyhao12.github.io/Work-Day-Scheduler/",
         "repo": "https://github.com/billyhao12/Work-Day-Scheduler"
     }
