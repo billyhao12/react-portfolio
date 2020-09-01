@@ -3,6 +3,8 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
+import './style.css';
+
 function Contact() {
 
     return (
@@ -40,7 +42,7 @@ function Contact() {
                     </div>
                 </Col>
 
-                <Col lg={4} id="myInfo">
+                <Col lg={4}>
                     <div className="box">
                         <h3>My Info</h3>
                         <ul>
