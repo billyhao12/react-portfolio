@@ -5,6 +5,8 @@ import Col from "react-bootstrap/Col";
 import projects from "../../projects.json";
 import Project from "../../components/Project";
 
+import './style.css';
+
 class Projects extends Component {
 
     state = {

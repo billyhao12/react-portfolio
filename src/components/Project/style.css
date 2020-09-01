@@ -1,0 +1,11 @@
+.projectScreenshots {
+    margin: auto;
+    margin-bottom: 0.5rem;
+    display: block;
+    border: solid black 2px;
+}
+
+.projectTitles {
+    margin-top: 2rem;
+    text-align: center;
+}
