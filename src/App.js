@@ -8,6 +8,7 @@ import Footer from './components/Footer';
 // Pages
 import About from './pages/About';
 import Projects from './pages/Projects';
+import Contact from './pages/Contact';
 
 function App() {
   return (
@@ -26,7 +27,7 @@ function App() {
           </Route>
 
           <Route exact path={"/contact"}>
-            {/* Contact Page */}
+            <Contact />
           </Route>
 
         </Switch>
