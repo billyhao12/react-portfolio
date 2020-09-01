@@ -21,7 +21,7 @@ class Projects extends Component {
                 <Row>
                     <Col lg={12}>
                         <div className="box">
-                            <h1>Projects</h1>
+                            <h1 id="pageTitle">Projects</h1>
                             <Row style={{"align-content": "center"}}>
                                 {this.state.projects.map(project => (
                                     <Project project={project} />
