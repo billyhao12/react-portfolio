@@ -1,6 +1,15 @@
 [
     {
         "id": 1,
+        "name": "The Nomad",
+        "image": "/The-Nomad-screenshot.png",
+        "alt": "The Nomad screenshot",
+        "appUrl": "https://the-nomad.herokuapp.com/",
+        "repo": "https://github.com/billyhao12/the-nomad"
+    },
+
+    {
+        "id": 2,
         "name": "ChefPro",
         "image": "/ChefPro-screenshot.png",
         "alt": "ChefPro screenshot",
@@ -9,7 +18,7 @@
     },
 
     {
-        "id": 2,
+        "id": 3,
         "name": "Weather Event Planner",
         "image": "/Weather-Event-Planner-screenshot.png",
         "alt": "Weather Event Planner screenshot",
@@ -18,7 +27,7 @@
     },
 
     {
-        "id": 3,
+        "id": 4,
         "name": "Burger App",
         "image": "/Burger-App-screenshot.png",
         "alt": "Burger App screenshot",
@@ -27,25 +36,7 @@
     },
 
     {
-        "id": 4,
-        "name": "Employee Tracker",
-        "image": "/Employee-Tracker-screenshot.png",
-        "alt": "Employee Tracker screenshot",
-        "appUrl": "",
-        "repo": "https://github.com/billyhao12/Employee-Tracker"
-    },
-
-    {
         "id": 5,
-        "name": "Team Profile Generator",
-        "image": "/Team-Profile-Generator-screenshot.png",
-        "alt": "Team Profile Generator screenshot",
-        "appUrl": "",
-        "repo": "https://github.com/billyhao12/Team-Profile-Generator"
-    },
-
-    {
-        "id": 6,
         "name": "Work Day Scheduler",
         "image": "/Work-Day-Scheduler-screenshot.png",
         "alt": "Work Day Scheduler screenshot",
