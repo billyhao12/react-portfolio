@@ -22,15 +22,15 @@ function About() {
                         </Col>
                         <Col lg={6}>
                             <p>
-                                Hello, my name is Billy Hao. I am a Full Stack Web Developer and passionate problem solver with a business background.
-                                I hold a Bachelor of Arts in Business Administration from the University of Washington Bothell with concentrations in Supply Chain Management and Finance.
-                                In addition, I have taken various continuing education courses on SQL at Bellevue College.
+                                Full Stack Web Developer and passionate problem solver with a business background. Graduate of the University
+                                of Washington’s Coding Boot Camp and the University of Washington Bothell’s School of Business. Worked
+                                collaboratively with colleagues on various projects to develop innovative websites using front-end and back-end
+                                technologies. Eager to learn new skills in order to build applications that positively impact user experience.
                             </p>
 
                             <p>
                                 I have a firm understanding of HTML, CSS, and JavaScript with many deployed applications on my <a href="https://github.com/billyhao12">GitHub account</a>.
                                 Previous experience includes investment banking, where I worked with a team to advise technology CEOs about the sell-side mergers and acquisitions process as well as supply chain management, where I organized and analyzed hundreds of supplier contracts.
-                                My experience as an investment banker has strengthened my communication skills and taught me how to work within a diverse team to achieve a common goal.
                             </p>
                         </Col>
                     </Row>
