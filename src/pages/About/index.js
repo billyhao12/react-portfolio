@@ -24,13 +24,13 @@ function About() {
                             <p>
                                 Full Stack Web Developer and passionate problem solver with a business background. Graduate of the University
                                 of Washington’s Coding Boot Camp and the University of Washington Bothell’s School of Business. Worked
-                                collaboratively with colleagues on various projects to develop innovative websites using front-end and back-end
-                                technologies. Eager to learn new skills in order to build applications that positively impact user experience.
+                                collaboratively with colleagues on various projects to develop innovative websites using HTML, CSS and JavaScript.
+                                Eager to learn new skills in order to build applications that positively impact user experience.
                             </p>
 
                             <p>
-                                I have a firm understanding of HTML, CSS, and JavaScript with many deployed applications on my <a href="https://github.com/billyhao12">GitHub account</a>.
-                                Previous experience includes investment banking, where I worked with a team to advise technology CEOs about the sell-side mergers and acquisitions process as well as supply chain management, where I organized and analyzed hundreds of supplier contracts.
+                                Previous experience includes investment banking, where I worked with a team to advise technology CEOs about the sell-side mergers and acquisitions process
+                                as well as supply chain management, where I organized and analyzed hundreds of supplier contracts.
                             </p>
                         </Col>
                     </Row>
