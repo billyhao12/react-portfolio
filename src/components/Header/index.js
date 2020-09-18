@@ -1,7 +1,6 @@
 import React from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
-import NavDropdown from "react-bootstrap/NavDropdown";
 import "./style.css";
 
 function Header() {
@@ -14,12 +13,9 @@ function Header() {
         <Navbar.Collapse id="basic-navbar-nav">
 
             <Nav className="ml-auto">
-            <Nav.Link href="/about">About</Nav.Link>
-            <NavDropdown title="Portfolio" id="basic-nav-dropdown">
-                <NavDropdown.Item href="/projects">Projects</NavDropdown.Item>
-                <NavDropdown.Item href="https://drive.google.com/file/d/1W8tBUCCJKJ2OBwLu4aSqw7h-wykYvkHb/view?usp=sharing">Resume</NavDropdown.Item>
-            </NavDropdown>            
-            <Nav.Link href="/contact" id="lastLink">Contact</Nav.Link>
+                <Nav.Link href="/about">About</Nav.Link>
+                <Nav.Link href="/projects">Projects</Nav.Link>
+                <Nav.Link href="/contact" id="lastLink">Contact</Nav.Link>
             </Nav>
 
         </Navbar.Collapse>
