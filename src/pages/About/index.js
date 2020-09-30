@@ -22,16 +22,24 @@ function About() {
                         </Col>
                         <Col lg={6}>
                             <p>
-                                Full Stack Web Developer and passionate problem solver with a business background. Graduate of the University
+                                Full Stack Engineer and problem solver with a business background. Graduate of the University
                                 of Washington’s Coding Boot Camp and the University of Washington Bothell’s School of Business. Worked
                                 collaboratively with colleagues on various projects to develop innovative websites using HTML, CSS and JavaScript.
-                                Eager to learn new skills in order to build applications that positively impact user experience.
+                                Eager to learn new skills and develop creative solutions to build applications that positively impact user experience.
                             </p>
 
                             <p>
-                                Previous experience includes investment banking, where I worked with a team to advise technology CEOs about the sell-side mergers and acquisitions process
-                                as well as supply chain management, where I organized and analyzed hundreds of supplier contracts.
+                                As a former investment banker, I worked with a team to advise technology CEOs about the sell-side mergers and acquisitions process.
+                                The experience strengthened my communication skills and taught me how to work within a diverse team to achieve a common goal.
                             </p>
+                            
+                            <strong>Technical Skills</strong>
+                            <ul>
+                                <li>Front End: HTML, CSS, JavaScript, React, Handlebars, Bootstrap, Bulma, jQuery</li>
+                                <li>Back End: JavaScript, Node, Express, Sequelize, Mongoose</li>
+                                <li>Databases: MySQL, Microsoft SQL Server, T-SQL Programming, MongoDB, IndexedDB</li>
+                            </ul>
+                            
                         </Col>
                     </Row>
                 </div>
