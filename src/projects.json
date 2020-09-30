@@ -4,6 +4,8 @@
         "name": "The Nomad",
         "image": "/The-Nomad-screenshot.png",
         "alt": "The Nomad screenshot",
+        "description": "A community driven publication based on user location.",
+        "technologies": "MERN stack (MongoDB, Express, React, Node), Bulma, Mapbox",
         "appUrl": "https://the-nomad.herokuapp.com/",
         "repo": "https://github.com/billyhao12/the-nomad"
     },
@@ -13,6 +15,8 @@
         "name": "ChefPro",
         "image": "/ChefPro-screenshot.png",
         "alt": "ChefPro screenshot",
+        "description": "A cookbook that allows users to share and explore recipes.",
+        "technologies": "MySQL, Sequelize, TravisCI, Linting, Handlebars, jQuery, Bootstrap",
         "appUrl": "https://uw-project-2.herokuapp.com/",
         "repo": "https://github.com/billyhao12/ChefPro"
     },
@@ -22,6 +26,8 @@
         "name": "Weather Event Planner",
         "image": "/Weather-Event-Planner-screenshot.png",
         "alt": "Weather Event Planner screenshot",
+        "description": "Browse activities to partake in based on weather conditions.",
+        "technologies": "OpenWeather API, PredictHQ API, Bulma, jQuery",
         "appUrl": "https://billyhao12.github.io/Weather-Event-Planner/",
         "repo": "https://github.com/billyhao12/Weather-Event-Planner"
     },
@@ -31,6 +37,8 @@
         "name": "Burger App",
         "image": "/Burger-App-screenshot.png",
         "alt": "Burger App screenshot",
+        "description": "Submit burgers you would like to devour on this interactive web page!",
+        "technologies": "MVC framework, MySQL with a custom ORM",
         "appUrl": "https://hidden-coast-04312.herokuapp.com/",
         "repo": "https://github.com/billyhao12/Burger-App"
     },
@@ -40,6 +48,8 @@
         "name": "Work Day Scheduler",
         "image": "/Work-Day-Scheduler-screenshot.png",
         "alt": "Work Day Scheduler screenshot",
+        "description": "A simple calendar app for scheduling your work day.",
+        "technologies": "HTML, CSS, JavaScript",
         "appUrl": "https://billyhao12.github.io/Work-Day-Scheduler/",
         "repo": "https://github.com/billyhao12/Work-Day-Scheduler"
     }

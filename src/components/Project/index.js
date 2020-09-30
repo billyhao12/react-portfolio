@@ -22,6 +22,8 @@ function Project({project}) {
             src={require("../../images" + project.image)} 
             alt={project.alt}
             className="projectScreenshots img-fluid rounded"></img>
+            <p>{project.description}</p>
+            <p>Technologies used: {project.technologies}</p>
             {checkIfDeployed(project)}
             <a href={project.repo}>GitHub Repository</a>
         </Col>
