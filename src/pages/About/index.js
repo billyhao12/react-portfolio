@@ -25,7 +25,7 @@ function About() {
                                 Full Stack Engineer and problem solver with a business background. Graduate of the University
                                 of Washington’s Coding Boot Camp and the University of Washington Bothell’s School of Business. Worked
                                 collaboratively with colleagues on various projects to develop innovative websites using HTML, CSS and JavaScript.
-                                Eager to learn new skills and develop creative solutions to build applications that positively impact user experience.
+                                Eager to learn new skills and build applications that improve user experience.
                             </p>
 
                             <p>
