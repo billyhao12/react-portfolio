@@ -35,9 +35,10 @@ function About() {
                             
                             <strong>Technical Skills</strong>
                             <ul>
-                                <li>Front End: HTML, CSS, JavaScript, React, Handlebars, Bootstrap, Bulma, jQuery</li>
-                                <li>Back End: JavaScript, Node, Express, Sequelize, Mongoose</li>
-                                <li>Databases: MySQL, Microsoft SQL Server, T-SQL Programming, MongoDB, IndexedDB</li>
+                                <li>Languages: SQL/T-SQL, HTML, CSS, JavaScript, Node.js, Handlebars.js</li>
+                                <li>Libraries: jQuery, React.js, Mongoose</li>
+                                <li>Frameworks: Bootstrap, Express.js, Bulma.js</li>
+                                <li>Others: Git, MongoDB, MySQL, Microsoft SQL Server, Sequelize, IndexedDB, MVC design pattern, Visual Studio Code, Docker, GitHub, Heroku</li>
                             </ul>
                             
                         </Col>
