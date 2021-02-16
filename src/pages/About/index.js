@@ -22,7 +22,7 @@ function About() {
                         </Col>
                         <Col lg={6}>
                             <p>
-                                Full Stack Engineer and problem solver with a business background.
+                                Full Stack Web Developer and problem solver with a business background.
                                 Graduate of the University of Washington’s Coding Boot Camp and the University of Washington Bothell’s School of Business.
                                 Collaborated with colleagues on various projects to develop innovative websites using HTML, CSS and JavaScript.
                                 Eager to learn new skills and build applications that improve user experience.
