@@ -8,6 +8,7 @@ import Footer from './components/Footer';
 // Pages
 import About from './pages/About';
 import Projects from './pages/Projects';
+import Resume from './pages/Resume';
 import Contact from './pages/Contact';
 
 function App() {
@@ -24,6 +25,10 @@ function App() {
 
           <Route exact path={"/projects"}>
             <Projects />
+          </Route>
+
+          <Route exact path={"/resume"}>
+            <Resume />
           </Route>
 
           <Route exact path={"/contact"}>
