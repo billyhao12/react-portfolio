@@ -2,6 +2,7 @@ import React from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
+import profilePic from "../../images/Billy.jpg";
 import "./style.css";
 
 function About() {
@@ -15,7 +16,7 @@ function About() {
                     <Row>
                         <Col lg={6}>
                             <img 
-                            src={require("../../images/Billy.jpg")} 
+                            src={profilePic} 
                             alt="Billy Hao" 
                             class="img-fluid rounded float-left">
                             </img>
