@@ -23,17 +23,6 @@
 
     {
         "id": 3,
-        "name": "Weather Event Planner",
-        "image": "/Weather-Event-Planner-screenshot.png",
-        "alt": "Weather Event Planner screenshot",
-        "description": "Browse activities to partake in based on weather conditions.",
-        "technologies": "OpenWeather API, PredictHQ API, Bulma, jQuery",
-        "appUrl": "https://billyhao12.github.io/Weather-Event-Planner/",
-        "repo": "https://github.com/billyhao12/Weather-Event-Planner"
-    },
-
-    {
-        "id": 4,
         "name": "Burger App",
         "image": "/Burger-App-screenshot.png",
         "alt": "Burger App screenshot",
@@ -44,7 +33,7 @@
     },
 
     {
-        "id": 5,
+        "id": 4,
         "name": "Work Day Scheduler",
         "image": "/Work-Day-Scheduler-screenshot.png",
         "alt": "Work Day Scheduler screenshot",
