@@ -26,7 +26,7 @@ function About() {
                                 Full Stack Web Developer and problem solver with a business background.
                                 Graduate of the University of Washington’s Coding Boot Camp and the University of Washington Bothell’s School of Business.
                                 Collaborated with colleagues on various projects to develop innovative websites using HTML, CSS and JavaScript.
-                                Eager to learn new skills and build applications that improve user experience.
+                                Eager to learn new skills and build applications that simplify and enhance people’s lives.
                             </p>
 
                             <p>
@@ -36,7 +36,7 @@ function About() {
                             
                             <strong>Technical Skills</strong>
                             <ul>
-                                <li>Languages: SQL/T-SQL, HTML, CSS, JavaScript, Node.js, Handlebars.js</li>
+                                <li>Languages: HTML, CSS, JavaScript, Node.js, SQL/T-SQL, Handlebars.js, Java</li>
                                 <li>Libraries: jQuery, React.js, Mongoose</li>
                                 <li>Frameworks: Bootstrap, Express.js, Bulma.js</li>
                                 <li>Others: Git, MongoDB, MySQL, Microsoft SQL Server, Sequelize, IndexedDB, MVC design pattern, Visual Studio Code, Docker, GitHub, Heroku</li>
