@@ -23,23 +23,16 @@ function About() {
                         </Col>
                         <Col lg={6}>
                             <p>
-                                Full Stack Web Developer and problem solver with a business background.
-                                Graduate of the University of Washington’s Coding Boot Camp and the University of Washington Bothell’s School of Business.
-                                Collaborated with colleagues on various projects to develop innovative websites using HTML, CSS and JavaScript.
-                                Eager to learn new skills and build applications that simplify and enhance people’s lives.
-                            </p>
-
-                            <p>
-                                As a former investment banker, I worked with a team to advise technology CEOs about the sell-side mergers and acquisitions process.
-                                The experience strengthened my communication skills and taught me how to work within a diverse team to achieve a common goal.
+                                Software engineer and problem solver working at Sinclair Digital.
+                                A graduate student at UW Bothell set to graduate with a master's degree in computer science and software engineering in 2025. Holds a Graduate Certificate in Software Design and Development (GCSDD) from the same university and a certificate in Full Stack Web Development from the University of Washington Professional and Continuing Education program. Earned a Bachelor of Arts in Business Administration from UW Bothell's School of Business with concentrations in Supply Chain Management and Finance in 2019.
                             </p>
                             
                             <strong>Technical Skills</strong>
                             <ul>
-                                <li>Languages: HTML, CSS, JavaScript, Node.js, SQL/T-SQL, Handlebars.js, Java</li>
-                                <li>Libraries: jQuery, React.js, Mongoose</li>
-                                <li>Frameworks: Bootstrap, Express.js, Bulma.js</li>
-                                <li>Others: Git, MongoDB, MySQL, Microsoft SQL Server, Sequelize, IndexedDB, MVC design pattern, Visual Studio Code, Docker, GitHub, Heroku</li>
+                                <li>Languages: SQL/T-SQL, HTML, CSS, JavaScript, Node.js, Handlebars.js, Java, C++, C</li>
+                                <li>Libraries: jQuery, Mongoose, React.js, React Testing Library</li>
+                                <li>Frameworks: Bootstrap, Express.js, Bulma.js, Jest</li>
+                                <li>Others: Git, MongoDB, MySQL, Microsoft SQL Server, Sequelize, IndexedDB, MVC design pattern, responsive web design</li>
                             </ul>
                             
                         </Col>
