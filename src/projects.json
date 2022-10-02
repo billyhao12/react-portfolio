@@ -1,39 +1,17 @@
 [
-    {
+     {
         "id": 1,
-        "name": "The Nomad",
-        "image": "/The-Nomad-screenshot.png",
-        "alt": "The Nomad screenshot",
-        "description": "A community driven publication based on user location.",
-        "technologies": "MERN stack (MongoDB, Express, React, Node), Bulma, Mapbox",
-        "appUrl": "https://the-nomad.herokuapp.com/",
-        "repo": "https://github.com/billyhao12/the-nomad"
+        "name": "Weather Dashboard",
+        "image": "/Weather-Dashboard-screenshot.png",
+        "alt": "Weather Dashboard screenshot",
+        "description": "A weather app that displays weather info for a city.",
+        "technologies": "HTML, CSS, JavaScript",
+        "appUrl": "https://billyhao12.github.io/Weather-Dashboard/",
+        "repo": "https://github.com/billyhao12/Weather-Dashboard"
     },
-
+   
     {
         "id": 2,
-        "name": "ChefPro",
-        "image": "/ChefPro-screenshot.png",
-        "alt": "ChefPro screenshot",
-        "description": "A cookbook that allows users to share and explore recipes.",
-        "technologies": "MySQL, Sequelize, TravisCI, Linting, Handlebars, jQuery, Bootstrap",
-        "appUrl": "https://uw-project-2.herokuapp.com/",
-        "repo": "https://github.com/billyhao12/ChefPro"
-    },
-
-    {
-        "id": 3,
-        "name": "Burger App",
-        "image": "/Burger-App-screenshot.png",
-        "alt": "Burger App screenshot",
-        "description": "Submit burgers you would like to devour on this interactive web page!",
-        "technologies": "MVC framework, MySQL with a custom ORM",
-        "appUrl": "https://hidden-coast-04312.herokuapp.com/",
-        "repo": "https://github.com/billyhao12/Burger-App"
-    },
-
-    {
-        "id": 4,
         "name": "Work Day Scheduler",
         "image": "/Work-Day-Scheduler-screenshot.png",
         "alt": "Work Day Scheduler screenshot",
