@@ -1,9 +1,9 @@
 import React from "react";
 import "./style.css";
 
-function Footer() {
-    return(
-        <footer>
+function Footer({ className }) {
+    return (
+        <footer className={className}>
             &copy; Billy Hao
         </footer>
     )

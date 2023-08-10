@@ -5,11 +5,11 @@ import Col from "react-bootstrap/Col";
 import profilePic from "../../images/Billy.jpg";
 import "./style.css";
 
-function About() {
+function About({ className }) {
 
     return (
 
-        <Container>
+        <Container className={className}>
             <Row>
                 <div className="box">
                     <h1>About Me</h1>

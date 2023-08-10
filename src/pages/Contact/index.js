@@ -5,11 +5,11 @@ import Col from 'react-bootstrap/Col';
 
 import './style.css';
 
-function Contact() {
+function Contact({ className }) {
 
     return (
 
-        <Container>
+        <Container className={className}>
             <Row>
 
                 <Col lg={8}>
