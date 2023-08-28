@@ -8,7 +8,7 @@ const cfConfig = {
             Quantity: 1,
             Items: ['/*']
         },
-        CallerReference: Date.now()
+        CallerReference: Date.now().toString()
     }
 }
 
