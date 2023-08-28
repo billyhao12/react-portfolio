@@ -21,7 +21,7 @@
     "clean": "rm -rf ./build",
     "build": "yarn run clean && react-scripts build",
     "invalidate": "node generateCfConfig.js && aws cloudfront create-invalidation --cli-input-json file://cfConfig.json",
-    "deploy": "yarn run build && aws s3 sync build s3://billyhao12.dev --delete",
+    "deploy": "yarn run build && aws s3 sync build s3://billyhao12.dev --delete && yarn run invalidate",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
