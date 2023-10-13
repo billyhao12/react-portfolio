@@ -1,5 +1,10 @@
-const path = require("path");
-const express = require("express");
+import path, { dirname } from 'path';
+import { fileURLToPath } from 'url';
+import express from 'express';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
 const app = express();
 const publicPath = path.join(__dirname, "build");
 const port = process.env.PORT || 3000;
