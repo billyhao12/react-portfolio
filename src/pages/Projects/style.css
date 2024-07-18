@@ -2,3 +2,7 @@ h1#pageTitle {
     padding-bottom: 0;
     margin-bottom: 0;
 }
+
+.projectRow {
+    align-content: center;
+}

@@ -15,7 +15,7 @@ function Projects({ className }) {
                 <Col lg={12}>
                     <div className="box">
                         <h1 id="pageTitle">Projects</h1>
-                        <Row style={{"align-content": "center"}}>
+                        <Row className="projectRow">
                             {projects.map(project => (
                                 <Project project={project} />
                             ))}
