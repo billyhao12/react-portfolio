@@ -29,10 +29,10 @@ function About({ className }) {
                             
                             <strong>Technical Skills</strong>
                             <ul>
-                                <li>Languages: HTML, CSS, JavaScript, Node.js, SQL/T-SQL, Java, C, C++</li>
-                                <li>Libraries: React.js, React Testing Library, jQuery, Mongoose</li>
-                                <li>Frameworks: Express.js, Jest, Bootstrap, Bulma.js</li>
-                                <li>Others: Git, MySQL, Sequelize, MongoDB, IndexedDB, MVC design pattern, responsive web design</li>
+                                <li>Languages: Java, JavaScript, Node, C, C++, Python, C#, HTML, CSS, SQL/T-SQL</li>
+                                <li>Libraries: React, React Testing Library, jQuery, Mongoose</li>
+                                <li>Frameworks: Express, Jest, Bootstrap, Bulma</li>
+                                <li>Others: AWS, Express, Git, MySQL, Sequelize, MongoDB, IndexedDB, MVC design pattern, responsive web design</li>
                             </ul>
                             
                         </Col>
