@@ -43,7 +43,7 @@ function Contact({ className }) {
                 </Col>
 
                 <Col lg={4}>
-                    <div className="box">
+                    <div className="infoBox">
                         <h3>My Info</h3>
                         <ul>
                             <li><a href="https://github.com/billyhao12">GitHub</a></li>

@@ -19,6 +19,12 @@ code {
 
 .box {
   background-color: #FFF;
+  padding: 50px;
+  border: solid black 2px;
+}
+
+.infoBox {
+  background-color: #FFF;
   padding: 20px;
   border: solid black 2px;
 }
