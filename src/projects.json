@@ -1,6 +1,27 @@
 [
-     {
+    {
         "id": 1,
+        "name": "Rhyme Detector (Work In Progress)",
+        "image": "/Rhyme-Detector-screenshot.png",
+        "alt": "Rhyme Detector screenshot",
+        "description": "Detect and highlight rhymes in rap lyrics.",
+        "technologies": "HTML, CSS, React",
+        "appUrl": "https://rhyme-detector.vercel.app/",
+        "repo": "https://github.com/billyhao12/rhyme-detector"
+    },
+
+    {
+        "id": 2,
+        "name": "New Telegram Desktop Feature",
+        "image": "/Telegram-Desktop-screenshot.png",
+        "alt": "Telegram Desktop screenshot",
+        "description": "Worked with a team to add a new event feature to Telegram desktop. The new feature allows users in a group chat to create an event. Only available as a local build. See User Guide in README for build instructions.",
+        "technologies": "C++",
+        "repo": "https://github.com/billyhao12/tdesktop-fork"
+    },
+
+    {
+        "id": 3,
         "name": "Weather Dashboard",
         "image": "/Weather-Dashboard-screenshot.png",
         "alt": "Weather Dashboard screenshot",
@@ -11,7 +32,7 @@
     },
    
     {
-        "id": 2,
+        "id": 4,
         "name": "Work Day Scheduler",
         "image": "/Work-Day-Scheduler-screenshot.png",
         "alt": "Work Day Scheduler screenshot",
