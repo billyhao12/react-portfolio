@@ -1,13 +1,13 @@
 [
     {
-        "id": 1,
-        "name": "Rhyme Detector (Work In Progress)",
-        "image": "/Rhyme-Detector-screenshot.png",
-        "alt": "Rhyme Detector screenshot",
-        "description": "Detect and highlight rhymes in rap lyrics.",
-        "technologies": "HTML, CSS, React",
-        "appUrl": "https://rhyme-detector.vercel.app/",
-        "repo": "https://github.com/billyhao12/rhyme-detector"
+      "id": 1,
+      "name": "Rhyme Detector",
+      "image": "/Rhyme-Detector-screenshot.png",
+      "alt": "Rhyme Detector screenshot",
+      "description": "Detect and highlight rhymes in rap lyrics.",
+      "technologies": "React, Spring Boot",
+      "appUrl": "https://rhyme-detector.vercel.app/",
+      "repo": "https://github.com/billyhao12/rhyme-detector"
     },
 
     {
